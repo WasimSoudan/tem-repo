@@ -1,0 +1,2 @@
+Text Wasim Soudan 
+test for open file using here path in nodejs

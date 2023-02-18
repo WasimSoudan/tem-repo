@@ -1,0 +1,22 @@
+--------------------------------------
+I am wasim Soudan 
+This is full file come from marge txt1 and txt2 
+ Text Wasim Soudan 
+test for open file using here path in nodejs 
+ secand file  --------------------------------------
+I am wasim Soudan 
+This is full file come from marge txt1 and txt2 
+ Text Wasim Soudan 
+test for open file using here path in nodejs 
+ secand file  --------------------------------------
+I am wasim Soudan 
+This is full file come from marge txt1 and txt2 
+ Text Wasim Soudan 
+test for open file using here path in nodejs 
+ secand file  
+--------------------------------------
+I am wasim Soudan 
+This is full file come from marge txt1 and txt2 
+ Text Wasim Soudan 
+test for open file using here path in nodejs 
+ secand file  
